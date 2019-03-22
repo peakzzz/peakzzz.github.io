@@ -6,3 +6,5 @@
 
  # THEME-SPECIFIC CONFIGURATION
  theme:
+
+theme: jekyll-theme-minimal
